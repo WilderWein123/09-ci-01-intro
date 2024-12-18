@@ -34,7 +34,21 @@
 1. При проведении обеих задач по статусам используйте kanban. 
 1. Верните задачи в статус Open.
 1. Перейдите в Scrum, запланируйте новый спринт, состоящий из задач эпика и одного бага, стартуйте спринт, проведите задачи до состояния Closed. Закройте спринт.
-2. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. Файлы с workflow и скриншоты workflow приложите к решению задания.
+2. Если всё отработалось в рамках ожидания — выгрузите схемы workflow для импорта в XML. 
+
+> Файлы с workflow и 
+
+https://github.com/WilderWein123/09-ci-01-intro/blob/main/bug.xml
+
+https://github.com/WilderWein123/09-ci-01-intro/blob/main/other.xml
+
+> скриншоты workflow 
+
+<img src = "img/workflow-bug.jpg" width = 100%>
+
+<img src = "img/workflow-other.jpg" width = 100%>
+
+приложите к решению задания.
 
 ---
 
